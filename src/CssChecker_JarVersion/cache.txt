@@ -1,0 +1,168 @@
+#generalOverview {
+    
+}
+
+#generalOverview, footer {
+    background-color: #A2B964;
+}
+
+main {
+    background-color: #eeeeee;
+}
+
+.quotebubble {
+    background-color: #ffffff;
+}
+
+body {
+    background-image: url("http://courses.cs.washington.edu/courses/cse154/17sp/project/tmnt/resources/static/image/moviebg.png");
+}
+
+#banner {
+    background-image: url("http://courses.cs.washington.edu/courses/cse154/17sp/project/tmnt/resources/static/image/rancidbannerbg.png");
+}
+
+#overallReview {
+    background-image: url("http://courses.cs.washington.edu/courses/cse154/17sp/project/tmnt/resources/static/image/rottenlargebg.png");
+}
+
+.quotebubble {
+    border-radius: 12px;
+}
+
+.quotebubble {
+    border: #cccccc solid 2px;
+}
+
+main {
+    box-shadow: 5px 5px 5px gray;
+}
+
+#overallReview > span {
+    color: red;
+}
+
+main > div, #reviews, #generalOverview {
+    display: flex;
+}
+
+#reviews, #generalOverview {
+    flex-direction: column;
+}
+
+#reviews img {
+    float: left;
+}
+
+body, #generalOverview dl {
+    font-family: Arial;
+}
+
+h1, .quotebubble {
+    font-family: Georgia;
+}
+
+body, #generalOverview dl {
+    font-size: 12pt;
+}
+
+.quotebubble, .reviewer {
+    font-size: 13pt;
+}
+
+h1 {
+    font-size: 24pt;
+}
+
+#overallReview > span {
+    font-size: 48pt;
+}
+
+.reviewer span {
+    font-style: italic;
+}
+
+h1, #overallReview > span, dl dt {
+    font-weight: bold;
+}
+
+#banner, #banner > img {
+    height: 50px;
+}
+
+#overallReview, #overallReview > img {
+    height: 83px;
+}
+
+dd ul {
+    list-style: none;
+}
+
+#overallReview {
+    margin-bottom: 1em;
+}
+
+main, #reviews {
+    margin-left: auto;
+}
+
+#reviews img {
+    margin-right: 5px;
+}
+
+main, #reviews {
+    margin-right: auto;
+}
+
+.reviewer {
+    margin-top: 0;
+}
+
+dl dt {
+    margin-top: 15px;
+}
+
+body {
+    margin: 0;
+}
+
+#generalOverview dl {
+    margin: 15px;
+}
+
+footer {
+    padding: 0.5em;
+}
+
+dd ul {
+    padding: 0;
+}
+
+.quotebubble {
+    padding: 1em;
+}
+
+#banner, h1, footer {
+    text-align: center;
+}
+
+#w3c {
+    text-align: right;
+}
+
+h1 {
+    text-shadow: 3px 3px #999999;
+}
+
+#overallReview > span {
+    vertical-align: bottom;
+}
+
+main {
+    width: 55%;
+}
+
+#reviews {
+    width: 90%;
+}
+
