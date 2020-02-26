@@ -1,1 +1,1 @@
-# css_checker
+# Automatic CSS Redundancy Reducer
